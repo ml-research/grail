@@ -100,12 +100,7 @@ Use `--track` on any training script to log to [Weights & Biases](https://wandb.
 |---|---|
 | Kangaroo | Platformer with ladders, monkeys, and coconuts |
 | Seaquest | Underwater navigation with divers, enemies, and missiles |
-| Freeway | Road crossing with traffic |
-| Asterix | Navigation and collection |
-| Donkey Kong | Platformer with barrels and ladders |
-| Getout | Grid-based navigation |
-| Loot | Object collection |
-| Threefish | Multi-agent fish environment |
+| Skiing | Downhill skiing with flags and obstacles |
 
 ---
 
