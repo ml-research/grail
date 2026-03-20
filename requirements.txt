@@ -1,0 +1,15 @@
+tyro
+pygame
+vidmaker
+opencv-python==4.5.5.64
+stable-baselines3
+captum
+ocatari
+pyyaml
+tensorboard
+rtpt
+wandb
+gymnasium[atari, accept-rom-license]
+imageio
+imageio_ffmpeg
+torch==2.4.0
