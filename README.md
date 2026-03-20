@@ -147,18 +147,6 @@ See `in/envs/freeway/` for a minimal example.
 
 ---
 
-## Citation
-
-```bibtex
-@article{roessler2025grail,
-  title={Learning Relational Concepts in Neuro-Symbolic Reinforcement Learning},
-  author={Shindo, Hikaru and Rößler, Henri and Delfosse, Quentin and Kersting, Kristian},
-  year={2025}
-}
-```
-
----
-
 ## Acknowledgements
 
 This work was partly funded by the German Federal Ministry of Education and Research, the Hessian Ministry of Higher Education, Research, Science and the Arts (HMWK) within their joint support of the National Research Center for Applied Cybersecurity ATHENE, via the "SenPai:XReLeaS" project. The work has benefited from the Clusters of Excellence "Reasonable AI" (EXC-3057) and "The Adaptive Mind" (EXC-3066), both funded by the German Research Foundation (DFG) under Germany's Excellence Strategy.
