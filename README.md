@@ -1,11 +1,11 @@
 # GRAIL: Grounding Relational Concepts in Neuro-Symbolic Reinforcement Learning
 
-Henri Johannes Rößler<sup>1</sup>, [Hikaru Shindo](https://www.hikarushindo.com/)<sup>2</sup>
+[Hikaru Shindo](https://www.hikarushindo.com/)<sup>1</sup>, Henri Rößler<sup>1</sup>, [Quentin Delfosse](https://ml-research.github.io/people/qdelfosse/index.html)<sup>1</sup>, [Kristian Kersting](https://ml-research.github.io/people/kkersting/index.html)<sup>1,2,3,4</sup>
 
-<sup>1</sup>Department of Computer Science, TU Darmstadt, Germany
-<sup>2</sup>Artificial Intelligence and Machine Learning Lab, TU Darmstadt, Germany
-
-Contact: henri.roessler@tu-darmstadt.de
+<sup>1</sup>TU Darmstadt, Germany
+<sup>2</sup>Hessian AI, Germany
+<sup>3</sup>German Research Center for Artificial Intelligence (DFKI), Germany
+<sup>4</sup>Centre for Cognitive Science, TU Darmstadt, Germany
 
 Neuro-symbolic agents rely on logical rules to infer their actions, which often requires knowledge about how objects are related to each other. Understanding concepts such as *left of* or *nearby* is therefore essential for solving abstract tasks. In existing systems, such relations are typically defined by human experts, which limits extensibility since the meaning of a concept can vary across different environments.
 
@@ -152,7 +152,7 @@ See `in/envs/freeway/` for a minimal example.
 ```bibtex
 @article{roessler2025grail,
   title={Learning Relational Concepts in Neuro-Symbolic Reinforcement Learning},
-  author={Rößler, Henri Johannes and Shindo, Hikaru},
+  author={Shindo, Hikaru and Rößler, Henri and Delfosse, Quentin and Kersting, Kristian},
   year={2025}
 }
 ```
@@ -160,5 +160,7 @@ See `in/envs/freeway/` for a minimal example.
 ---
 
 ## Acknowledgements
+
+This work was partly funded by the German Federal Ministry of Education and Research, the Hessian Ministry of Higher Education, Research, Science and the Arts (HMWK) within their joint support of the National Research Center for Applied Cybersecurity ATHENE, via the "SenPai:XReLeaS" project. The work has benefited from the Clusters of Excellence "Reasonable AI" (EXC-3057) and "The Adaptive Mind" (EXC-3066), both funded by the German Research Foundation (DFG) under Germany's Excellence Strategy.
 
 GRAIL builds upon [BlendRL](https://github.com/ml-research/blendrl) (ICLR 2025), [NUDGE](https://github.com/ml-research/NUDGE), and [NSFR](https://github.com/ml-research/nsfr).
